@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoctorApointment.AdminApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoctorApointment.AdminApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\Rotativa\\help-wkhtmltoimage.txt",
+      "PackagePath": "staticwebassets\\Rotativa\\help-wkhtmltoimage.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\Rotativa\\help-wkhtmltopdf.txt",
+      "PackagePath": "staticwebassets\\Rotativa\\help-wkhtmltopdf.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\Rotativa\\wkhtmltoimage.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\Rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\Style_layout.css",
+      "PackagePath": "staticwebassets\\css\\Style_layout.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\login_page.css",
+      "PackagePath": "staticwebassets\\css\\login_page.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\News_free-file.png",
+      "PackagePath": "staticwebassets\\img\\News_free-file.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\bgapp.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\bgapp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\img_canhan\\user_default.png",
+      "PackagePath": "staticwebassets\\img\\img_canhan\\user_default.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\logo_bacsi.png",
+      "PackagePath": "staticwebassets\\img\\logo_bacsi.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\mercedes-eqc.png",
+      "PackagePath": "staticwebassets\\img\\mercedes-eqc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\42d5adcbca.js",
+      "PackagePath": "staticwebassets\\js\\42d5adcbca.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\Validator.js",
+      "PackagePath": "staticwebassets\\js\\Validator.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\login_page.js",
+      "PackagePath": "staticwebassets\\js\\login_page.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\choices.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\confirmDate\\confirmDate.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\confirmDate\\confirmDate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\datatables.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\demo.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\dragula\\dragula.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\dragula\\dragula.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\jkanban\\jkanban.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jkanban\\jkanban.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\leaflet.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\minMaxTimePlugin.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\minMaxTimePlugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\monthSelect\\index.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\monthSelect\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\multistep-form.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\multistep-form.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\orbit-controls.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\orbit-controls.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\rangePlugin.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\rangePlugin.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\round-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\round-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\sweetalert.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\threejs.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\threejs.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\tilt.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\tilt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\plugins\\weekSelect\\weekSelect.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\weekSelect\\weekSelect.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.AdminApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoctorApointment.AdminApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoctorApointment.AdminApp.props",
+      "PackagePath": "build\\DoctorApointment.AdminApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoctorApointment.AdminApp.props",
+      "PackagePath": "buildMultiTargeting\\DoctorApointment.AdminApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoctorApointment.AdminApp.props",
+      "PackagePath": "buildTransitive\\DoctorApointment.AdminApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

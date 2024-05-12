@@ -1,0 +1,813 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoctorApointment.BackendAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoctorApointment.BackendAPI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\annualservicefee-content\\2246f1c7-352e-471f-9990-e363f6894f87.jfif",
+      "PackagePath": "staticwebassets\\img\\annualservicefee-content\\2246f1c7-352e-471f-9990-e363f6894f87.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\annualservicefee-content\\30a22cf2-b0d4-4fba-abc1-4b18a6a9506a.jpg",
+      "PackagePath": "staticwebassets\\img\\annualservicefee-content\\30a22cf2-b0d4-4fba-abc1-4b18a6a9506a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\annualservicefee-content\\6457e21a-0750-486e-a6fb-e90518714bcc.png",
+      "PackagePath": "staticwebassets\\img\\annualservicefee-content\\6457e21a-0750-486e-a6fb-e90518714bcc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\annualservicefee-content\\dc310e39-8a2a-4164-946c-71d9a1b46b97.png",
+      "PackagePath": "staticwebassets\\img\\annualservicefee-content\\dc310e39-8a2a-4164-946c-71d9a1b46b97.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\annualservicefee-content\\df08229c-9abd-416b-b857-a1c5ddb51f0a.jfif",
+      "PackagePath": "staticwebassets\\img\\annualservicefee-content\\df08229c-9abd-416b-b857-a1c5ddb51f0a.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\29d61d0b-6f67-4ed2-a511-f5f00a7f6c2d.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\29d61d0b-6f67-4ed2-a511-f5f00a7f6c2d.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\2a70dcee-b319-418c-a299-6e21f7eee1d5.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\2a70dcee-b319-418c-a299-6e21f7eee1d5.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\30dbe794-00b1-41e2-a38e-4c3f01ea5162.jpg",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\30dbe794-00b1-41e2-a38e-4c3f01ea5162.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\35f6c1a3-5d1c-48f9-a1af-3f64f0c82bcf.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\35f6c1a3-5d1c-48f9-a1af-3f64f0c82bcf.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\4330b059-2923-479d-9b63-626db40e90b7.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\4330b059-2923-479d-9b63-626db40e90b7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\4709187f-52e4-40c0-bc31-1e5d87300141.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\4709187f-52e4-40c0-bc31-1e5d87300141.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\4ba5ff4d-d79e-4b82-8c1b-a8654a3e9999.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\4ba5ff4d-d79e-4b82-8c1b-a8654a3e9999.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\4f59ba1e-e070-439d-a5b9-0890ea68a1ba.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\4f59ba1e-e070-439d-a5b9-0890ea68a1ba.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\5707f4ee-246d-460e-bc73-7f5da85c5843.jpg",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\5707f4ee-246d-460e-bc73-7f5da85c5843.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\7143f9cf-331f-4857-8dc5-f87c904f6617.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\7143f9cf-331f-4857-8dc5-f87c904f6617.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\71b87158-d9b6-44d0-a1c3-aa269a28c0e7.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\71b87158-d9b6-44d0-a1c3-aa269a28c0e7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\7c0dcfb5-1476-4903-939d-c813001ca6bc.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\7c0dcfb5-1476-4903-939d-c813001ca6bc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\7ef8ab3b-a11a-4743-bca1-f780750c94d8.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\7ef8ab3b-a11a-4743-bca1-f780750c94d8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\822c2282-639d-48ea-b2b0-a44256c3309c.jpg",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\822c2282-639d-48ea-b2b0-a44256c3309c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\8a030041-856b-4063-be5a-a1df847ab1bf.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\8a030041-856b-4063-be5a-a1df847ab1bf.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\90f40ea8-0773-4c64-a941-53a4944acc35.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\90f40ea8-0773-4c64-a941-53a4944acc35.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\997bc5dd-1844-4fac-bb20-b0faba0fb394.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\997bc5dd-1844-4fac-bb20-b0faba0fb394.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\9ec3aa82-159c-4028-93ed-0514545972ef.jpg",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\9ec3aa82-159c-4028-93ed-0514545972ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\a5083eae-8afd-4bce-90f6-2322f210767a.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\a5083eae-8afd-4bce-90f6-2322f210767a.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\baf9b0f5-ae6a-4629-a505-2e4ca9a5b825.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\baf9b0f5-ae6a-4629-a505-2e4ca9a5b825.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\c750e4c3-2255-4808-838e-147b0a2a807b.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\c750e4c3-2255-4808-838e-147b0a2a807b.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\cac1126c-1af5-4b5b-856b-c8aa53f510b7.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\cac1126c-1af5-4b5b-856b-c8aa53f510b7.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\cf6cbeca-26c8-4a94-9083-7221e8fe6ad3.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\cf6cbeca-26c8-4a94-9083-7221e8fe6ad3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\d3abde58-4c05-4b44-a3d1-06b2cd8bafb3.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\d3abde58-4c05-4b44-a3d1-06b2cd8bafb3.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\e8f5313c-7307-4fe2-ac70-76dd9b069e56.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\e8f5313c-7307-4fe2-ac70-76dd9b069e56.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\f2ad7ae3-2db5-465a-b153-677d049b7ebb.png",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\f2ad7ae3-2db5-465a-b153-677d049b7ebb.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\f32e2192-2cb8-4935-b063-f3bf2c926610.jfif",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\f32e2192-2cb8-4935-b063-f3bf2c926610.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinic-content\\f41d9644-c11c-4d7c-8398-3a6894481a14.webp",
+      "PackagePath": "staticwebassets\\img\\clinic-content\\f41d9644-c11c-4d7c-8398-3a6894481a14.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\0d3578e6-6b43-4b73-bea9-4914160b1da5.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\0d3578e6-6b43-4b73-bea9-4914160b1da5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\12a7e4be-66c8-41f1-b1bc-6cc2b2478dab.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\12a7e4be-66c8-41f1-b1bc-6cc2b2478dab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\1931229e-a275-477d-bc05-fdd250687ed8.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\1931229e-a275-477d-bc05-fdd250687ed8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\1cb8fe49-9f8a-4e85-b1ff-da604bd0e770.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\1cb8fe49-9f8a-4e85-b1ff-da604bd0e770.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\241ae725-6b8f-4dfc-b636-25ee6c0a7638.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\241ae725-6b8f-4dfc-b636-25ee6c0a7638.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\2ef23a87-73f0-49b7-9a9b-db6fc42610b0.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\2ef23a87-73f0-49b7-9a9b-db6fc42610b0.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\3d250a22-c7d5-4fed-bd9f-4cdae3140a5d.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\3d250a22-c7d5-4fed-bd9f-4cdae3140a5d.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\45ba47b8-60bb-45ed-8e5b-75f0ffd790dc.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\45ba47b8-60bb-45ed-8e5b-75f0ffd790dc.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\4bf709a0-5a68-431c-b3bb-e8b0dd1381c1.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\4bf709a0-5a68-431c-b3bb-e8b0dd1381c1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\4fd4ab2d-d4ea-4cc3-8d7d-cd152ec714a5.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\4fd4ab2d-d4ea-4cc3-8d7d-cd152ec714a5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\6f852711-23b5-45a9-a731-10830d3e7b1f.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\6f852711-23b5-45a9-a731-10830d3e7b1f.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\73e5d5f1-52e7-48cd-9403-692821324355.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\73e5d5f1-52e7-48cd-9403-692821324355.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\78c35880-c571-403c-877f-d7e543947a9e.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\78c35880-c571-403c-877f-d7e543947a9e.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\78f5f067-1156-47b6-a445-3ab328feeba3.webp",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\78f5f067-1156-47b6-a445-3ab328feeba3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\81d6d9e6-2435-4cb7-a10b-62d8bf1d7fdf.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\81d6d9e6-2435-4cb7-a10b-62d8bf1d7fdf.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\83016030-6bef-48bc-9d60-59ae3133f576.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\83016030-6bef-48bc-9d60-59ae3133f576.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\87b1eb86-9f31-44ac-a8c3-412897eb355e.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\87b1eb86-9f31-44ac-a8c3-412897eb355e.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\91b82f6b-af92-4ca4-b7f5-5d1683d57b31.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\91b82f6b-af92-4ca4-b7f5-5d1683d57b31.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\9cc90bce-cfdf-4bc2-85f6-47592e4438d3.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\9cc90bce-cfdf-4bc2-85f6-47592e4438d3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\a2b85a71-d5bb-4cdf-a321-89d63a78d255.webp",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\a2b85a71-d5bb-4cdf-a321-89d63a78d255.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\b7505b91-75e6-4991-a2db-1eb5ad2e539d.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\b7505b91-75e6-4991-a2db-1eb5ad2e539d.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\c6d31c8b-96a5-4a92-9091-acc85557db27.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\c6d31c8b-96a5-4a92-9091-acc85557db27.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\c95be316-76ac-42d7-8342-c0345ffdf3d4.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\c95be316-76ac-42d7-8342-c0345ffdf3d4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\ca00bbd8-fa4a-4975-bd4c-88b06b9d915d.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\ca00bbd8-fa4a-4975-bd4c-88b06b9d915d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\cc667492-bfd8-4835-bbd7-147cc1d55794.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\cc667492-bfd8-4835-bbd7-147cc1d55794.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\d0895e0b-4181-44c1-bd6a-7f1d13b359df.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\d0895e0b-4181-44c1-bd6a-7f1d13b359df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\e7826c95-e60e-4e69-ae9a-6e72aa5220c5.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\e7826c95-e60e-4e69-ae9a-6e72aa5220c5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\ee04cd15-b99c-4c94-8f84-27dbf2af9b6f.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\ee04cd15-b99c-4c94-8f84-27dbf2af9b6f.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\eeaddc88-de7e-4ed1-9823-bdf8bf29cf41.png",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\eeaddc88-de7e-4ed1-9823-bdf8bf29cf41.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\clinics-content\\f3c803d9-af1a-491d-89ea-bf4ffc5019bc.jpg",
+      "PackagePath": "staticwebassets\\img\\clinics-content\\f3c803d9-af1a-491d-89ea-bf4ffc5019bc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\06bc3e21-da9d-40ec-8bdf-e84b0d41e03a.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\06bc3e21-da9d-40ec-8bdf-e84b0d41e03a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\13cc8fda-1561-427e-9838-0097f78507f7.png",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\13cc8fda-1561-427e-9838-0097f78507f7.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\3a7e152c-baf2-49a8-a516-18aef9e32a79.png",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\3a7e152c-baf2-49a8-a516-18aef9e32a79.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\41221f13-bf61-4d5c-ab03-911cdd4a3eae.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\41221f13-bf61-4d5c-ab03-911cdd4a3eae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\448d2715-8289-4c1d-bda5-47bd464bc1ec.png",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\448d2715-8289-4c1d-bda5-47bd464bc1ec.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\e8cff901-388a-4386-b602-14139e876813.png",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\e8cff901-388a-4386-b602-14139e876813.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\gallery-content\\eeef8173-c531-4f3a-9a8e-bd57696eb37e.png",
+      "PackagePath": "staticwebassets\\img\\gallery-content\\eeef8173-c531-4f3a-9a8e-bd57696eb37e.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\2a9806a5-931d-4708-8ffc-30f64528b908.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\2a9806a5-931d-4708-8ffc-30f64528b908.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\3c72715a-265a-4b61-82d2-f51e5af0978d.svg",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\3c72715a-265a-4b61-82d2-f51e5af0978d.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\51e18515-a4dc-474b-89c7-e17b094c8400.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\51e18515-a4dc-474b-89c7-e17b094c8400.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\6dcbe06b-d760-4742-b2c8-4f4965702a7b.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\6dcbe06b-d760-4742-b2c8-4f4965702a7b.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\736826bf-7548-4d6d-ab97-1104900088e8.webp",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\736826bf-7548-4d6d-ab97-1104900088e8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\98733875-0f38-4bd8-815d-a02e1632ee7c.webp",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\98733875-0f38-4bd8-815d-a02e1632ee7c.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\996e303f-b39e-4f39-89d8-cc2f899347f3.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\996e303f-b39e-4f39-89d8-cc2f899347f3.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\9c5921c9-4d61-4035-a3eb-821df4dc4fae.svg",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\9c5921c9-4d61-4035-a3eb-821df4dc4fae.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\aec91c81-2233-4ebd-81ca-43463a123432.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\aec91c81-2233-4ebd-81ca-43463a123432.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\bbf46e85-ca6f-46bd-9a6c-c07fd4eb0778.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\bbf46e85-ca6f-46bd-9a6c-c07fd4eb0778.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\c185f6b9-164a-4057-af66-e0a76a9c9a06.svg",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\c185f6b9-164a-4057-af66-e0a76a9c9a06.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\c8ec1014-0e09-498c-a7d0-010c5760cee1.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\c8ec1014-0e09-498c-a7d0-010c5760cee1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\ce59fe7d-97a1-4414-b989-2c4c62fef5d8.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\ce59fe7d-97a1-4414-b989-2c4c62fef5d8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\d483c33d-f7d4-4a91-b6d7-5c6657b23ce5.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\d483c33d-f7d4-4a91-b6d7-5c6657b23ce5.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\d782793b-4bb4-4694-8be4-f2bbf9ed5ed9.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\d782793b-4bb4-4694-8be4-f2bbf9ed5ed9.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\d870280c-efa3-4cc6-a5e3-796e110bacc2.png",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\d870280c-efa3-4cc6-a5e3-796e110bacc2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\masterData-content\\f0b11d42-7295-445d-b10c-f66df0691d7f.svg",
+      "PackagePath": "staticwebassets\\img\\masterData-content\\f0b11d42-7295-445d-b10c-f66df0691d7f.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\00004f15-266c-4acf-ba20-372a9e254395.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\00004f15-266c-4acf-ba20-372a9e254395.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\041d89f0-6090-450e-afd0-dc3663c0fe97.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\041d89f0-6090-450e-afd0-dc3663c0fe97.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\1616a87d-ccd0-41ee-84cc-2da12abd020e.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\1616a87d-ccd0-41ee-84cc-2da12abd020e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\5795f371-abb9-42a5-8149-dde16e500893.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\5795f371-abb9-42a5-8149-dde16e500893.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\860fe617-10b8-4c10-97dd-3222903ab862.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\860fe617-10b8-4c10-97dd-3222903ab862.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\a434d6f6-8b7e-473d-9649-1f2584b54990.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\a434d6f6-8b7e-473d-9649-1f2584b54990.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\aaf5f8f3-2549-4972-8510-94e463c75a5d.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\aaf5f8f3-2549-4972-8510-94e463c75a5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\medicine-content\\e278a56d-69c1-4117-b64f-1c0078674cfd.jpg",
+      "PackagePath": "staticwebassets\\img\\medicine-content\\e278a56d-69c1-4117-b64f-1c0078674cfd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\07c20bee-3b14-4ca3-ab72-d017b8c26e02.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-content\\07c20bee-3b14-4ca3-ab72-d017b8c26e02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\2dccb06d-2f38-424e-87fd-26b71518d8f0.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-content\\2dccb06d-2f38-424e-87fd-26b71518d8f0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\2e739d13-d11f-493a-af5b-cd4d8ca9a22f.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\2e739d13-d11f-493a-af5b-cd4d8ca9a22f.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\39658f8b-1a90-4980-93ed-7f42270c2e0a.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-content\\39658f8b-1a90-4980-93ed-7f42270c2e0a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\474e7877-7a1e-497a-9b26-425dc77a4e7d.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\474e7877-7a1e-497a-9b26-425dc77a4e7d.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\9154069e-f0b9-4254-b133-5201892f4576.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\9154069e-f0b9-4254-b133-5201892f4576.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\9db91cf0-827f-45f1-b759-03a7ef2c5276.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\9db91cf0-827f-45f1-b759-03a7ef2c5276.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\ad12a21f-6b3b-41f5-9d9b-6f812b7f3a42.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\ad12a21f-6b3b-41f5-9d9b-6f812b7f3a42.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\c463b4af-43dc-479c-aa86-37433b199867.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\c463b4af-43dc-479c-aa86-37433b199867.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\eb48feae-e8dc-432c-bc35-6d3bc2c56088.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\eb48feae-e8dc-432c-bc35-6d3bc2c56088.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-content\\f39284e2-c439-4525-94ae-e27ebaccfad2.png",
+      "PackagePath": "staticwebassets\\img\\posts-content\\f39284e2-c439-4525-94ae-e27ebaccfad2.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-feature-content\\a05c3845-b397-4fe4-9f68-b6eb3c032b54.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-feature-content\\a05c3845-b397-4fe4-9f68-b6eb3c032b54.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-feature-content\\ce78968d-64c8-4727-9547-1b0846e29108.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-feature-content\\ce78968d-64c8-4727-9547-1b0846e29108.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\posts-feature-content\\e7d63f92-acc1-41a3-ada3-f6fc84c2856a.jpg",
+      "PackagePath": "staticwebassets\\img\\posts-feature-content\\e7d63f92-acc1-41a3-ada3-f6fc84c2856a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\1a22dd7b-7267-4b11-9c2b-911fd447ebe2.jpg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\1a22dd7b-7267-4b11-9c2b-911fd447ebe2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\1c1f021c-75a8-4cd4-a8c4-8fd5ffb8828c.jfif",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\1c1f021c-75a8-4cd4-a8c4-8fd5ffb8828c.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\217b02a7-3887-4a27-92fb-0e4bee65a927.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\217b02a7-3887-4a27-92fb-0e4bee65a927.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\41b49704-becc-4e36-99e5-695b775aa9fa.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\41b49704-becc-4e36-99e5-695b775aa9fa.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\5a49185c-7f91-4134-bd3f-8702d5e1d4e3.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\5a49185c-7f91-4134-bd3f-8702d5e1d4e3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\6e6ae9eb-5d83-462d-b183-bbb26540877c.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\6e6ae9eb-5d83-462d-b183-bbb26540877c.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\73e24040-9265-4c94-9727-8352c6b75a0c.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\73e24040-9265-4c94-9727-8352c6b75a0c.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\76d4fec9-70f7-4390-86db-270e7f96b426.jpg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\76d4fec9-70f7-4390-86db-270e7f96b426.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\8a7f7378-a00d-42d4-af43-cba41aabaeb8.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\8a7f7378-a00d-42d4-af43-cba41aabaeb8.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\95629d9f-d5fc-4aab-addf-a0db5802c6b6.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\95629d9f-d5fc-4aab-addf-a0db5802c6b6.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\9cfb64bc-6a48-4986-a9fd-ab8df8c87d40.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\9cfb64bc-6a48-4986-a9fd-ab8df8c87d40.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\9d124869-b330-48ba-8edc-1bd106546d48.jfif",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\9d124869-b330-48ba-8edc-1bd106546d48.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\a534ee62-5af5-45b2-b834-2615a7029ef4.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\a534ee62-5af5-45b2-b834-2615a7029ef4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\a594ac8f-159b-41fe-bd80-cd7b818c09ec.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\a594ac8f-159b-41fe-bd80-cd7b818c09ec.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\aa9cc6c3-548b-427e-9b46-61e4f309c527.jpg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\aa9cc6c3-548b-427e-9b46-61e4f309c527.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\b9c76347-34a7-4b8b-b8d0-d0524c27e5a4.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\b9c76347-34a7-4b8b-b8d0-d0524c27e5a4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\bc62950b-bef7-41a1-bb29-7bb78be235cf.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\bc62950b-bef7-41a1-bb29-7bb78be235cf.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\c596eb69-1882-47ea-9d6d-87f660c9a0a4.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\c596eb69-1882-47ea-9d6d-87f660c9a0a4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\d2076fc5-6637-47a3-9c98-d5a934b550c4.svg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\d2076fc5-6637-47a3-9c98-d5a934b550c4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\ee28b517-fc31-47f0-ab6d-e24a103d222d.jpg",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\ee28b517-fc31-47f0-ab6d-e24a103d222d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\f665eead-c6b5-4668-b998-da6239b3358d.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\f665eead-c6b5-4668-b998-da6239b3358d.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\f7711a8b-5b32-4b31-996a-dc59ff581e15.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\f7711a8b-5b32-4b31-996a-dc59ff581e15.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\speciality-content\\ff4aea5c-47b8-4864-a801-163a5e1846d4.png",
+      "PackagePath": "staticwebassets\\img\\speciality-content\\ff4aea5c-47b8-4864-a801-163a5e1846d4.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\topic-content\\37362b24-85fe-4f26-ad67-0776f1208234.webp",
+      "PackagePath": "staticwebassets\\img\\topic-content\\37362b24-85fe-4f26-ad67-0776f1208234.webp"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\user-content\\528bb25a-f063-4d5f-8864-6c796dd0fc28.png",
+      "PackagePath": "staticwebassets\\img\\user-content\\528bb25a-f063-4d5f-8864-6c796dd0fc28.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\user-content\\5c896774-3fa2-4c6e-ae78-7b59c974102c.png",
+      "PackagePath": "staticwebassets\\img\\user-content\\5c896774-3fa2-4c6e-ae78-7b59c974102c.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\user-content\\c2344354-c5a7-43a1-b62a-43ef5538d148.png",
+      "PackagePath": "staticwebassets\\img\\user-content\\c2344354-c5a7-43a1-b62a-43ef5538d148.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\img\\user-content\\user_default.png",
+      "PackagePath": "staticwebassets\\img\\user-content\\user_default.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DoctorApointment\\DoctorApointment.BackendAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoctorApointment.BackendAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoctorApointment.BackendAPI.props",
+      "PackagePath": "build\\DoctorApointment.BackendAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoctorApointment.BackendAPI.props",
+      "PackagePath": "buildMultiTargeting\\DoctorApointment.BackendAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoctorApointment.BackendAPI.props",
+      "PackagePath": "buildTransitive\\DoctorApointment.BackendAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

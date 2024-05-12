@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\bin\Debug\net6.0\DoctorApointment.Data.deps.json
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\bin\Debug\net6.0\DoctorApointment.Data.runtimeconfig.json
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\bin\Debug\net6.0\DoctorApointment.Data.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\bin\Debug\net6.0\DoctorApointment.Data.pdb
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\refint\DoctorApointment.Data.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.pdb
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\DoctorApointment.Data.genruntimeconfig.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.Data\obj\Debug\net6.0\ref\DoctorApointment.Data.dll

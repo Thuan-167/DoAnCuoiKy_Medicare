@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoctorApointment.Utilities/1.0.0": {
+        "runtime": {
+          "DoctorApointment.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorApointment.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

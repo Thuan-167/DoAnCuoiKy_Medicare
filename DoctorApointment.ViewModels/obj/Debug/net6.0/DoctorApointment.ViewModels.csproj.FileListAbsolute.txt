@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\bin\Debug\net6.0\DoctorApointment.ViewModels.deps.json
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\bin\Debug\net6.0\DoctorApointment.ViewModels.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\bin\Debug\net6.0\DoctorApointment.ViewModels.pdb
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\bin\Debug\net6.0\DoctorApointment.Data.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\bin\Debug\net6.0\DoctorApointment.Data.pdb
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.csproj.CopyComplete
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\refint\DoctorApointment.ViewModels.dll
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\DoctorApointment.ViewModels.pdb
+C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.ViewModels\obj\Debug\net6.0\ref\DoctorApointment.ViewModels.dll

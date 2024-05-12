@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DoctorApointment.AdminApp
+build_property.RootNamespace = DoctorApointment.AdminApp
+build_property.ProjectDir = C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.AdminApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Admin\source\repos\DoctorApointment\DoctorApointment.AdminApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Clinic/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Clinic/Detailt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljXERldGFpbHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Clinic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Clinic/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpbmljXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Contact/ContactPaging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0UGFnaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Contact/DetailtContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxEZXRhaWx0Q29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Location/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Login/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Login/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/CreateEthnic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxDcmVhdGVFdGhuaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/CreateMainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxDcmVhdGVNYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/Detailt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxEZXRhaWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/DetailtMainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxEZXRhaWx0TWFpbk1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/Ethnic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxFdGhuaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/MenuMain.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxNZW51TWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/UpdateEthnic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxVcGRhdGVFdGhuaWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/MasterData/UpdateMainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFzdGVyRGF0YVxVcGRhdGVNYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Post/DetailtPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWx0UG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/ServiceFee/DetailtServiceFee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUZlZVxEZXRhaWx0U2VydmljZUZlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/ServiceFee/PaymentServiceFee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUZlZVxQYXltZW50U2VydmljZUZlZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/ServiceFee/PaymentServiceFeePDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUZlZVxQYXltZW50U2VydmljZUZlZVBERi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/ServiceFee/ServiceFeePaging.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUZlZVxTZXJ2aWNlRmVlUGFnaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/Components/Navigation/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2aWdhdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/Components/NavMain/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2TWFpblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/Components/Pager/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGFnZXJcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Speciality/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Speciality/DetailtSpeciality.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl0eVxEZXRhaWx0U3BlY2lhbGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Speciality/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Speciality/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl0eVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Topic/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Topic/DetailtTopic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcRGV0YWlsdFRvcGljLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Topic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Topic/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9waWNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/Detailt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/DetailtDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWx0RG9jdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/DetailtPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWx0UGF0aWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/ListRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0Um9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/UpdateAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/User/UpdatePatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVcGRhdGVQYXRpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DoctorApointment/DoctorApointment.AdminApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jgw0bsvzb9
